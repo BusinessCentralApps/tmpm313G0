@@ -4,5 +4,6 @@
   ],
   "testFolders": [],
   "appFolders": [],
-  "country": "us"
+  "country": "us",
+  "repoVersion": "2.0"
 }
