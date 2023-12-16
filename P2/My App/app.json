@@ -19,7 +19,7 @@
   "id": "f50864e3-eee1-46c0-a62d-fc5fb3c51cc4",
   "contextSensitiveHelpUrl": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
   "dependencies": [],
-  "version": "2.0.0.0",
+  "version": "3.0.0.0",
   "brief": "Hello World for AppSource",
   "idRanges": [
     {
